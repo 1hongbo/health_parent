@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="plugins" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/health_web/src/main/webapp/js" />
+        <item url="file://$PROJECT_DIR$/health_web/src/main/webapp/plugins" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/health_web/src/main/webapp/js" />
+      <root url="file://$PROJECT_DIR$/health_web/src/main/webapp/plugins" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
